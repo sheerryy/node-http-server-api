@@ -1,5 +1,7 @@
 # node-api
 
+REST API using Node Http Server 
+
 # run `yarn start` to run the project at localhost port `80`
 
 Postman Collection link: `https://www.getpostman.com/collections/c4900bc29d5238747c89`
